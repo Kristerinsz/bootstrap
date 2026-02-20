@@ -1,0 +1,38 @@
+body {
+
+    background-color: bisque;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.nav-link {
+    background-color: bisque;
+    color:black
+}
+.hr-header {
+    border-bottom: 3px solid black;
+}
+.poga {
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    border-color: black;
+    border-bottom: 1px;
+    
+  }
+  .Poga {
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    background-color: rgb(255, 230, 0);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    border-color: black;
+    border-bottom: 1px;
+    
+  }
